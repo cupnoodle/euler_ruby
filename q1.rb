@@ -18,4 +18,4 @@ for i in 1..999
 end
 
 puts $sum;
-#233168
+#ans = 233168
